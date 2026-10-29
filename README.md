@@ -40,6 +40,8 @@ Whether you are scaling a fast-moving direct-to-consumer (D2C) brand, building a
   - [🔷 .NET & Enterprise Engines](#-net--enterprise-engines)
 - [🏛️ Architectural Comparison: SaaS vs Open Source](#️-architectural-comparison-saas-vs-open-source)
 - [🧭 Decision Matrix & Platform Selection Guide](#-decision-matrix--platform-selection-guide)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📜 Disclaimer](#-disclaimer)
 - [📄 License](#-license)
@@ -167,6 +169,24 @@ The table below catalogs premier open-source e-commerce backends, sorted descend
 4. 🛠️ **For PHP/Laravel ecosystems & marketplaces**: Adopt **Bagisto** for rapid multi-vendor setups, or **Sylius** for clean Symfony domain-driven engineering.
 5. 🧩 **For WordPress-integrated content sites**: Deploy **WooCommerce** with dedicated caching and managed hosting.
 6. 🔒 **For high-scale Microsoft IT stacks**: Deploy **nopCommerce** on ASP.NET Core and Microsoft SQL Server.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-E-Commerce-Management-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-E-Commerce-Management-Platform&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+A massive **thank you** 🙏 to all developers, store administrators, merchants, and open-source contributors who build with and support this curated directory!
+
+If you find this repository valuable, please consider supporting the project:
+- ⭐ **Star** this repository on GitHub to boost visibility for the community.
+- 🍴 **Fork** and share it with your engineering team, fellow developers, and retail founders.
+- 📢 **Contribute**: Submit a PR to add or update emerging SaaS tools or open-source commerce projects.
+- ☕ **Buy me a coffee**: Support ongoing curation, research, and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
