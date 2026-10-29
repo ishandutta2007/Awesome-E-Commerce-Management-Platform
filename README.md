@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-E-Commerce-Management-Platform?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-E-Commerce-Management-Platform?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-E-Commerce-Management-Platform?style=social" alt="GitHub forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Management-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-Ecosystem-ff69b4.svg" alt="Awesome List"></a>
@@ -83,9 +83,9 @@ Open-source commerce management software provides total data sovereignty, unmete
 
 ### ⭐ Top Open-Source Commerce Platforms Ranked by Stars
 
-The table below catalogs premier open-source e-commerce backends, sorted descending by GitHub community star count.
+The table below catalogs premier open-source e-commerce backends, sorted descending by GitHub community Stars_Count.
 
-| Repository | GitHub Stars Badge | Primary Language / Stack | Architecture & Core Capabilities |
+| Repository | GitHub_Stars_Badge | Primary Language / Stack | Architecture & Core Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | TypeScript / Node.js / PostgreSQL | Composable commerce engine dubbed "the open-source Shopify alternative." Built modularly with a modern React admin panel, event-driven workflows, multi-region pricing, and extensible plugins. |
 | **[Bagisto](https://github.com/bagisto/bagisto)** | [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | PHP / Laravel / Vue.js | Enterprise-grade Laravel e-commerce platform offering native multi-vendor marketplace capabilities, AI product descriptions, localized RTL support, and dedicated mobile app APIs. |
@@ -196,7 +196,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. 🍴 Fork this repository.
 2. 🔍 Ensure new SaaS additions include verifiable starting tier pricing and specific free trial terms.
-3. ⭐ Ensure new open-source additions include active GitHub repositories and accurate star count badges.
+3. ⭐ Ensure new open-source additions include active GitHub repositories and accurate Stars_Count badges.
 4. 📝 Add your entry to the appropriate section and submit a Pull Request with a clear summary.
 
 ---
